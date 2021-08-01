@@ -4,7 +4,7 @@
 ### Run honhovanFX11211_grade_the_exams.py file in terminal 
 ### Input txt file name to and check results at consol screen in terminal 
 ### Check output file in the same folder 
-
+### Input 'E' to exit program
 More Information
 ----------------
 
